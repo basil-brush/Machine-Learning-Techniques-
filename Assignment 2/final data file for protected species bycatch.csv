@@ -1,0 +1,408 @@
+method,target,area,latitude,longitude,status,exports,NumberTows,taxon
+trawl,'Jack mackerel',Taranaki,173.241059,-39.770584,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.258571,-40.56399,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.26656,-40.53901,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.243453,-40.534747,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.091825,-40.375022,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.094808,-40.394272,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.113414,-40.410567,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.111794,-40.375691,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.085798,-40.415173,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.085302,-40.399785,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,173.999451,-40.28639,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.008196,-40.276137,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.279216,-40.569756,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.275982,-40.570189,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.527861,-40.776917,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.558589,-40.808537,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.528552,-40.815746,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.533804,-40.791713,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.536992,-40.801736,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.544602,-40.781886,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel',Taranaki,174.559035,-40.798689,dead,1087227089,64011,Dolphin
+trawl,Hoki,'WC South Is.',170.385645,-42.537041,dead,1087227089,64011,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.093831,-37.198989,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.989858,-37.024129,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.004716,-36.989069,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.023466,-36.990761,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.247845,-37.715854,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.265114,-37.680651,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.245032,-37.685109,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.118743,-37.209073,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.979834,-36.918765,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.999079,-36.907392,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.997039,-36.886986,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.024958,-36.904718,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.02261,-36.922346,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.018493,-36.921551,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel',Taranaki,173.661439,-39.77695,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.068192,-37.052569,dead,1124628480,62447,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.027562,-37.035314,dead,1124628480,62447,Dolphin
+'surface longline','Bigeye tuna','East Coast North Island',179.36338,-37.094724,alive,1124628480,62447,Turtle
+'surface longline','Southern bluefin tuna','East Coast North Island',178.127248,-39.800112,alive,1124628480,62447,Whale
+'surface longline','Southern bluefin tuna','WC South Is.',169.896695,-42.356497,alive,1124628480,62447,Whale
+'surface longline','Bigeye tuna','WC North Is.',171.93953,-32.573829,alive,1124628480,62447,Whale
+'surface longline','Southern bluefin tuna','East Coast North Island',179.029798,-38.540931,alive,1124628480,62447,Whale
+trawl,'Jack mackerel','WC North Is.',173.96349,-36.860601,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.937029,-36.825168,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.957601,-36.826672,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.878512,-36.772574,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.920541,-36.770718,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.875699,-36.824387,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.922807,-36.798147,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.003124,-36.914203,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.005156,-36.9169,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.159119,-37.294008,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.150797,-37.302391,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.136335,-37.289365,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.164147,-37.292461,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.155112,-37.309383,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.17039,-37.290429,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.259333,-37.635669,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.25273,-37.665051,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.22636,-37.347438,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel',Taranaki,174.145311,-38.414157,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel',Taranaki,174.16964,-38.40013,dead,1192185954,57180,Dolphin
+trawl,'Jack mackerel',Taranaki,174.15747,-38.422243,dead,1192185954,57180,Dolphin
+trawl,'Arrow squid','Stewart Snares Shelf',169.51247,-47.123993,dead,1192185954,57180,Dolphin
+trawl,Barracouta,'WC South Is.',170.263811,-42.598134,dead,1192185954,57180,Dolphin
+'surface longline','Bigeye tuna','WC North Is.',172.998517,-32.512282,alive,1192185954,57180,Turtle
+'surface longline','Bigeye tuna','East Coast North Island',178.518559,-36.560568,alive,1192185954,57180,Turtle
+trawl,'Jack mackerel',Taranaki,173.835948,-38.70539,dead,1192185954,57180,Whale
+trawl,'Jack mackerel',Taranaki,173.844927,-38.723761,dead,1192185954,57180,Whale
+trawl,'Jack mackerel',Taranaki,173.837834,-38.712179,dead,1192185954,57180,Whale
+trawl,'Jack mackerel',Taranaki,173.851105,-38.695244,dead,1192185954,57180,Whale
+trawl,'Jack mackerel',Taranaki,173.841651,-38.690068,dead,1192185954,57180,Whale
+trawl,'Jack mackerel',Taranaki,173.847568,-38.686897,dead,1192185954,57180,Whale
+trawl,'Jack mackerel',Taranaki,173.796616,-39.954496,dead,1196846496,53981,Dolphin
+trawl,'Jack mackerel',Taranaki,173.808832,-39.971857,dead,1196846496,53981,Dolphin
+trawl,Trevally,'WC North Is.',174.040252,-36.710528,dead,1196846496,53981,Dolphin
+trawl,Trevally,'WC North Is.',174.032287,-36.683425,dead,1196846496,53981,Dolphin
+trawl,'Jack mackerel','East Coast South Island',173.608259,-44.114843,dead,1196846496,53981,Dolphin
+trawl,Hoki,'Stewart Snares Shelf',166.564619,-49.293572,alive,1196846496,53981,Dolphin
+trawl,Hoki,'Stewart Snares Shelf',166.561492,-49.292116,alive,1196846496,53981,Dolphin
+trawl,Hoki,'WC South Is.',170.473979,-42.255139,decomposed,1196846496,53981,Whale
+trawl,'Jack mackerel','WC North Is.',174.058647,-37.0077,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.933878,-36.794931,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.948172,-36.819329,dead,1257077019,49012,Dolphin
+setnet,Rig,'East Coast South Island',173.545463,-42.512952,dead,1257077019,49012,Dolphin
+setnet,Rig,'East Coast South Island',173.391547,-42.877686,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel',Taranaki,173.586981,-39.822921,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel',Taranaki,173.585037,-39.946173,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel',Taranaki,173.619735,-39.94322,dead,1257077019,49012,Dolphin
+trawl,'Arrow squid','Auckland Islands',167.431896,-50.540445,decomposed,1257077019,49012,Dolphin
+trawl,'Jack mackerel',Taranaki,173.6353,-40.423186,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel',Taranaki,173.672692,-40.408602,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel',Taranaki,173.660899,-40.39331,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel',Taranaki,173.669158,-40.375927,dead,1257077019,49012,Dolphin
+trawl,'Jack mackerel',Taranaki,173.647676,-40.403297,dead,1257077019,49012,Dolphin
+setnet,'School shark','Stewart Snares Shelf',167.662137,-46.478498,dead,1257077019,49012,Penguin
+setnet,'School shark','Stewart Snares Shelf',168.050617,-46.478304,dead,1257077019,49012,Penguin
+'surface longline','Bigeye tuna','East Coast North Island',177.868902,-40.617343,alive,1257077019,49012,Turtle
+trawl,'Jack mackerel','WC North Is.',174.017192,-36.971345,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.973565,-36.889854,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.941679,-36.915943,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.957121,-36.879485,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.928521,-36.891633,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.951062,-36.882123,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.927697,-36.885053,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.005789,-37.022042,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.977502,-36.983891,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.995837,-36.97757,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.979112,-37.018977,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.017945,-36.995645,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.017113,-36.988063,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.999477,-37.022295,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.013104,-37.015375,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.013412,-37.010835,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.175998,-38.274004,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.151136,-38.105159,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.127338,-38.110983,dead,1180165363,44912,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.130238,-38.097866,dead,1180165363,44912,Dolphin
+setnet,Rig,'East Coast South Island',171.203952,-44.58184,dead,1180165363,44912,Dolphin
+setnet,Rig,'Stewart Snares Shelf',168.822321,-46.706178,dead,1180165363,44912,Penguin
+setnet,'School shark','WC North Is.',174.28875,-38.16133,alive,1180165363,44912,Whale
+'surface longline','Southern bluefin tuna','Bay of Plenty',177.035672,-35.980519,alive,1180165363,44912,Whale
+trawl,'Jack mackerel','WC North Is.',173.928308,-36.858763,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.110034,-38.148272,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.080977,-38.146289,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.078228,-38.149146,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel',Taranaki,174.157166,-38.413117,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel',Taranaki,174.142372,-38.415324,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel',Taranaki,174.126484,-38.408235,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel',Taranaki,174.160225,-38.378854,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel',Taranaki,174.148669,-38.397962,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel',Taranaki,173.805382,-40.386415,dead,1269510569,38648,Dolphin
+trawl,'Jack mackerel',Taranaki,173.775962,-40.393645,dead,1269510569,38648,Dolphin
+trawl,'Common warehou',Taranaki,173.742248,-40.529095,dead,1269510569,38648,Dolphin
+trawl,'Common warehou',Taranaki,173.559052,-40.66382,dead,1269510569,38648,Dolphin
+trawl,'Common warehou',Taranaki,173.553945,-40.671537,dead,1269510569,38648,Dolphin
+trawl,'Common warehou',Taranaki,173.812802,-40.537025,dead,1269510569,38648,Dolphin
+trawl,'Common warehou',Taranaki,173.553334,-40.700121,dead,1269510569,38648,Dolphin
+trawl,'Common warehou',Taranaki,173.569369,-40.712566,dead,1269510569,38648,Dolphin
+trawl,'Common warehou',Taranaki,173.570711,-40.715874,dead,1269510569,38648,Dolphin
+trawl,'Common warehou',Taranaki,173.536365,-40.717301,dead,1269510569,38648,Dolphin
+trawl,Barracouta,Taranaki,173.218147,-40.685286,dead,1269510569,38648,Dolphin
+trawl,'Arrow squid','Stewart Snares Shelf',167.991854,-48.455614,decomposed,1269510569,38648,Dolphin
+trawl,'Arrow squid','Auckland Islands',166.642269,-50.944933,alive,1269510569,38648,Dolphin
+trawl,'Arrow squid','Auckland Islands',166.569251,-50.226587,decomposed,1269510569,38648,Dolphin
+setnet,Tarakihi,'East Coast South Island',173.529977,-42.599482,dead,1269510569,38648,Dolphin
+trawl,'Arrow squid','Auckland Islands',166.207876,-50.119723,decomposed,1269510569,38648,Dolphin
+setnet,'School shark','Stewart Snares Shelf',167.733609,-46.609712,dead,1269510569,38648,Penguin
+setnet,'School shark','East Coast South Island',171.290775,-44.82028,dead,1269510569,38648,Penguin
+setnet,'School shark','East Coast South Island',171.320498,-44.781955,dead,1269510569,38648,Penguin
+setnet,Rig,'East Coast South Island',171.082975,-45.082351,dead,1269510569,38648,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.208095,-47.117939,dead,1269510569,38648,Shark
+'surface longline','Bigeye tuna','WC North Is.',171.477949,-33.51872,alive,1269510569,38648,Turtle
+'surface longline','Bigeye tuna','WC North Is.',171.485921,-33.536245,alive,1269510569,38648,Turtle
+trawl,Trevally,'Northland and Hauraki',174.862314,-36.128411,alive,1269510569,38648,Turtle
+trawl,'Jack mackerel',Taranaki,172.655397,-40.268741,dead,1269510569,38648,Whale
+trawl,'Jack mackerel',Taranaki,172.627501,-40.254046,dead,1269510569,38648,Whale
+trawl,'Arrow squid','Stewart Snares Shelf',167.305357,-48.803621,decomposed,1269510569,38648,Whale
+trawl,'Arrow squid','Stewart Snares Shelf',167.713093,-48.661981,decomposed,1269510569,38648,Whale
+trawl,'Jack mackerel','WC North Is.',174.115178,-37.786318,dead,1316023571,34582,Dolphin
+setnet,'School shark','East Coast South Island',173.629653,-42.69928,dead,1316023571,34582,Dolphin
+setnet,Rig,'East Coast South Island',171.020212,-45.621605,dead,1316023571,34582,Dolphin
+setnet,Tarakihi,'East Coast South Island',173.52821,-42.611684,dead,1316023571,34582,Dolphin
+setnet,Rig,'East Coast South Island',171.591702,-44.187,dead,1316023571,34582,Dolphin
+trawl,'Jack mackerel',Taranaki,174.136149,-40.480882,dead,1316023571,34582,Dolphin
+trawl,'Jack mackerel',Taranaki,174.160916,-40.523774,dead,1316023571,34582,Dolphin
+trawl,'Jack mackerel',Taranaki,174.158525,-40.501089,dead,1316023571,34582,Dolphin
+trawl,Tarakihi,'Bay of Plenty',176.066549,-36.553698,dead,1316023571,34582,Dolphin
+setnet,Rig,'East Coast South Island',170.739681,-45.680769,dead,1316023571,34582,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',167.526746,-47.152252,dead,1316023571,34582,Penguin
+trawl,'Jack mackerel','WC North Is.',174.167535,-37.76277,dead,1360896340,34531,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.177743,-37.435501,dead,1360896340,34531,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.78483,-38.161337,dead,1360896340,34531,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.095938,-37.768087,dead,1360896340,34531,Dolphin
+trawl,Barracouta,'East Coast South Island',173.801065,-43.530053,dead,1360896340,34531,Dolphin
+trawl,'Jack mackerel',Taranaki,174.214014,-40.244791,dead,1360896340,34531,Dolphin
+trawl,'Jack mackerel',Taranaki,174.183167,-40.270326,dead,1360896340,34531,Dolphin
+trawl,'Jack mackerel',Taranaki,174.696275,-40.470254,dead,1360896340,34531,Dolphin
+trawl,Barracouta,'Stewart Snares Shelf',166.880548,-48.328178,alive,1360896340,34531,Shark
+trawl,'Silver warehou','Stewart Snares Shelf',169.5384,-47.116254,dead,1360896340,34531,Shark
+'surface longline','Bigeye tuna','East Coast North Island',179.258056,-38.387132,alive,1360896340,34531,Turtle
+'surface longline','Southern bluefin tuna','East Coast North Island',178.5777,-39.453723,alive,1360896340,34531,Turtle
+'surface longline','Southern bluefin tuna','Bay of Plenty',177.911907,-37.313662,alive,1360896340,34531,Turtle
+'surface longline','Southern bluefin tuna','East Coast North Island',178.388083,-35.602211,alive,1360896340,34531,Turtle
+trawl,'Jack mackerel','WC North Is.',174.111735,-38.193822,dead,1428905064,32246,Dolphin
+trawl,'Jack mackerel',Taranaki,174.161034,-38.310829,dead,1428905064,32246,Dolphin
+trawl,'Jack mackerel',Taranaki,174.137444,-38.304485,dead,1428905064,32246,Dolphin
+trawl,'Jack mackerel',Taranaki,173.840997,-38.697808,dead,1428905064,32246,Dolphin
+trawl,'Jack mackerel',Taranaki,174.009468,-40.42659,dead,1428905064,32246,Dolphin
+'purse seine','Skipjack tuna','Bay of Plenty',175.94118,-36.822693,alive,1428905064,32246,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.104344,-35.560207,alive,1428905064,32246,'Sting Ray'
+'purse seine','Skipjack tuna','Bay of Plenty',177.277456,-37.765911,alive,1428905064,32246,'Sting Ray'
+setnet,Rig,'East Coast South Island',171.247669,-44.612429,alive,1452999452,31385,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.192115,-37.476729,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.193632,-37.518461,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.224012,-37.506293,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.198097,-37.499847,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.179783,-37.512086,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.177703,-37.51662,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel',Taranaki,174.161553,-38.516764,alive,1452999452,31385,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.154435,-38.242338,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel',Taranaki,174.145868,-38.562621,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel',Taranaki,174.132623,-38.55328,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel',Taranaki,174.160651,-38.528628,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel',Taranaki,174.172575,-38.529526,dead,1452999452,31385,Dolphin
+trawl,Barracouta,Taranaki,173.174064,-40.258042,dead,1452999452,31385,Dolphin
+setnet,'School shark',Taranaki,174.368716,-38.335512,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel',Taranaki,173.379067,-40.10652,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel',Taranaki,173.450188,-39.993313,dead,1452999452,31385,Dolphin
+trawl,'Jack mackerel',Taranaki,173.839693,-40.062984,dead,1452999452,31385,Dolphin
+trawl,Hoki,'East Coast South Island',174.346688,-43.040347,dead,1452999452,31385,Dolphin
+setnet,'Common warehou',Taranaki,173.802732,-39.157755,dead,1452999452,31385,Dolphin
+trawl,'Silver warehou','Stewart Snares Shelf',168.316399,-48.26723,alive,1452999452,31385,Penguin
+setnet,'Common warehou',Taranaki,173.649965,-38.991289,dead,1452999452,31385,Shark
+'purse seine','Skipjack tuna','Bay of Plenty',177.70387,-37.590897,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Bay of Plenty',177.724381,-37.620937,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Bay of Plenty',176.108354,-37.234821,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.035805,-35.336675,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.062378,-35.344467,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.073917,-35.345066,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',174.713037,-35.270934,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',174.696812,-35.25647,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','WC North Is.',172.023125,-34.490342,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','WC North Is.',171.990981,-34.505363,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','WC North Is.',172.011507,-34.481949,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','WC North Is.',172.01968,-34.512844,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','WC North Is.',171.990461,-34.49117,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','WC North Is.',171.992239,-34.491994,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','WC North Is.',171.991803,-34.487202,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.48722,-35.727494,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.513721,-35.73391,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.256269,-35.594474,alive,1452999452,31385,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.256608,-35.602925,alive,1452999452,31385,'Sting Ray'
+'surface longline','Bigeye tuna','WC North Is.',172.524302,-32.504875,alive,1452999452,31385,Turtle
+'surface longline','Bigeye tuna','WC North Is.',171.635007,-32.409187,alive,1452999452,31385,Turtle
+trawl,'Jack mackerel',Taranaki,174.130493,-38.499997,dead,1452999452,31385,Whale
+trawl,'Jack mackerel',Taranaki,174.168554,-38.463501,dead,1452999452,31385,Whale
+trawl,'Jack mackerel',Taranaki,174.130132,-38.474409,dead,1452999452,31385,Whale
+trawl,'Jack mackerel',Taranaki,174.147398,-38.444064,dead,1452999452,31385,Whale
+trawl,'Jack mackerel',Taranaki,174.13463,-38.448658,dead,1452999452,31385,Whale
+trawl,Hoki,'WC South Is.',170.311077,-41.702748,decomposed,1452999452,31385,Whale
+trawl,'Jack mackerel','WC North Is.',174.166749,-38.181727,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.829219,-40.130058,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.832202,-40.125885,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.868314,-40.154675,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.84727,-40.144226,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.851817,-40.156126,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.528192,-39.838669,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.531485,-39.867322,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.564212,-39.84726,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.536097,-39.831338,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.529893,-39.867663,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.560317,-39.867347,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.429206,-40.172583,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.472314,-40.161819,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.473857,-40.148524,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.431676,-40.174957,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.46594,-40.171467,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.840931,-39.95573,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.836933,-39.956273,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.464447,-39.651514,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.449108,-39.646848,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.471333,-39.664659,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.430642,-39.657841,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.456485,-39.66156,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.447408,-39.64866,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.465934,-39.673841,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.458494,-39.647427,dead,1392132105,28831,Dolphin
+trawl,'Jack mackerel',Taranaki,173.427398,-39.651932,dead,1392132105,28831,Dolphin
+trawl,Tarakihi,'WC North Is.',173.878538,-36.577975,dead,1392132105,28831,Dolphin
+setnet,'Common warehou',Taranaki,173.804726,-39.128773,dead,1392132105,28831,Dolphin
+setnet,'Common warehou',Taranaki,173.756756,-39.151234,dead,1392132105,28831,Dolphin
+trawl,Hoki,'WC South Is.',170.593786,-41.915027,dead,1392132105,28831,Dolphin
+setnet,'School shark',Taranaki,174.056909,-38.779417,alive,1392132105,28831,Shark
+trawl,Hoki,'Stewart Snares Shelf',170.182529,-46.643545,dead,1392132105,28831,Shark
+trawl,'Silver warehou','Stewart Snares Shelf',170.680597,-46.212564,alive,1392132105,28831,Shark
+trawl,Hoki,'Stewart Snares Shelf',170.273092,-46.578459,dead,1392132105,28831,Shark
+trawl,'Arrow squid','Auckland Islands',166.485216,-50.981112,alive,1392132105,28831,Shark
+trawl,Hoki,'WC South Is.',170.389531,-42.538141,alive,1392132105,28831,Shark
+setnet,'Common warehou',Taranaki,174.072489,-39.006202,dead,1392132105,28831,Shark
+'purse seine','Skipjack tuna','Northland and Hauraki',173.221608,-34.664102,alive,1392132105,28831,'Sting Ray'
+'surface longline','Bigeye tuna','Northland and Hauraki',176.251644,-36.013525,alive,1392132105,28831,'Sting Ray'
+trawl,'Silver warehou','East Coast South Island',175.075123,-43.8899,decomposed,1392132105,28831,Whale
+trawl,'Jack mackerel','WC North Is.',174.031228,-38.047415,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.031448,-37.894363,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.172369,-37.273479,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.150313,-37.233304,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.153815,-37.247362,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.233095,-37.497944,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.930131,-36.861426,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',173.968051,-36.849379,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.143432,-37.738607,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.150136,-37.752499,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.220466,-37.61599,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.213045,-37.617112,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.222066,-37.605712,dead,1418976918,28686,Dolphin
+trawl,Barracouta,'East Coast South Island',172.737467,-44.500521,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel',Taranaki,173.721035,-40.045078,dead,1418976918,28686,Dolphin
+trawl,Barracouta,'East Coast South Island',172.889579,-44.421691,dead,1418976918,28686,Dolphin
+'surface longline','Bigeye tuna','Bay of Plenty',177.577531,-37.165991,alive,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.14476,-37.755826,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.155841,-37.729603,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel','WC North Is.',174.153301,-37.767838,dead,1418976918,28686,Dolphin
+trawl,Barracouta,Taranaki,173.715404,-39.811399,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel',Taranaki,174.237321,-40.472243,dead,1418976918,28686,Dolphin
+trawl,'Jack mackerel',Taranaki,174.269116,-40.466404,dead,1418976918,28686,Dolphin
+trawl,Tarakihi,'Bay of Plenty',176.864254,-37.633019,dead,1418976918,28686,Dolphin
+setnet,'Common warehou',Taranaki,173.845777,-39.080878,dead,1418976918,28686,Dolphin
+'surface longline','Southern bluefin tuna','Bay of Plenty',177.995902,-36.95467,alive,1418976918,28686,Dolphin
+trawl,'Arrow squid','Stewart Snares Shelf',166.701199,-48.95029,dead,1418976918,28686,Shark
+trawl,Hake,'Stewart Snares Shelf',166.707241,-49.210692,dead,1418976918,28686,Shark
+trawl,Hake,'Stewart Snares Shelf',166.604577,-48.993331,dead,1418976918,28686,Shark
+trawl,Hake,'Stewart Snares Shelf',166.610435,-49.004804,dead,1418976918,28686,Shark
+trawl,'Silver warehou','Stewart Snares Shelf',169.589472,-46.976069,alive,1418976918,28686,Shark
+trawl,Hoki,'WC South Is.',170.511119,-41.762869,dead,1418976918,28686,Shark
+trawl,Hoki,'WC South Is.',170.523334,-41.757183,dead,1418976918,28686,Shark
+'purse seine','Skipjack tuna','Northland and Hauraki',175.269582,-35.589031,dead,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.246587,-35.610394,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.235224,-35.585534,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.26538,-35.583993,dead,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.242761,-35.580401,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.274517,-35.603888,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.272493,-35.617576,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.240109,-35.614312,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.409418,-35.600976,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.385696,-35.622963,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.412134,-35.585008,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.728184,-35.865281,?,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.740274,-35.874374,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',174.825038,-35.277375,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',174.848331,-35.317169,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',174.860681,-35.319685,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',174.877933,-36.320118,?,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',173.504102,-34.001755,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',173.485448,-34.006554,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',173.519022,-34.703416,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',173.486228,-34.716543,dead,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',173.502462,-34.703701,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',173.33618,-34.632342,alive,1418976918,28686,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',173.340044,-34.627663,alive,1418976918,28686,'Sting Ray'
+'surface longline','Bigeye tuna','Northland and Hauraki',175.806402,-35.100729,alive,1418976918,28686,Turtle
+trawl,Trevally,'WC North Is.',172.844011,-34.666667,alive,1418976918,28686,Turtle
+trawl,'Jack mackerel','WC North Is.',174.089871,-37.997574,dead,1450000000,17278,Dolphin
+trawl,'Jack mackerel',Taranaki,173.352194,-40.215926,dead,1450000000,17278,Dolphin
+trawl,Tarakihi,'WC North Is.',174.046141,-36.952245,dead,1450000000,17278,Dolphin
+setnet,'School shark','East Coast South Island',170.901723,-45.530522,dead,1450000000,17278,Dolphin
+trawl,Tarakihi,'Northland and Hauraki',175.417499,-35.772574,dead,1450000000,17278,Dolphin
+'surface longline','Southern bluefin tuna','East Coast North Island',178.532124,-39.006458,alive,1450000000,17278,Dolphin
+'surface longline','Southern bluefin tuna','East Coast North Island',178.693751,-37.147395,alive,1450000000,17278,Dolphin
+setnet,'School shark','East Coast South Island',171.31913,-44.967252,dead,1450000000,17278,Penguin
+setnet,'School shark','East Coast South Island',171.446887,-44.928562,dead,1450000000,17278,Penguin
+setnet,'School shark','Stewart Snares Shelf',169.976471,-46.449769,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',167.755865,-46.687085,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.449682,-46.788749,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.432108,-46.781565,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.457606,-46.818023,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.467084,-46.802708,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.431434,-46.783622,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.464454,-46.807692,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.4608,-46.783068,dead,1450000000,17278,Penguin
+setnet,Butterfish,'Stewart Snares Shelf',168.451052,-46.808482,dead,1450000000,17278,Penguin
+setnet,'Common warehou',Taranaki,173.950024,-39.072282,dead,1450000000,17278,Shark
+trawl,'Arrow squid','Auckland Islands',166.482334,-51.011459,alive,1450000000,17278,Shark
+trawl,Snapper,'Northland and Hauraki',174.742309,-36.167814,alive,1450000000,17278,Shark
+'purse seine','Skipjack tuna','Northland and Hauraki',175.690312,-35.84581,alive,1450000000,17278,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.708446,-35.836715,alive,1450000000,17278,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.721524,-35.850662,dead,1450000000,17278,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.947908,-35.830816,alive,1450000000,17278,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.971057,-35.837083,alive,1450000000,17278,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.970984,-35.829423,alive,1450000000,17278,'Sting Ray'
+'purse seine','Skipjack tuna','Bay of Plenty',176.188922,-36.747129,alive,1450000000,17278,'Sting Ray'
+'surface longline','Bigeye tuna','Northland and Hauraki',174.626638,-34.718179,alive,1450000000,17278,Turtle
+'surface longline','Broadbill swordfish','Northland and Hauraki',174.029963,-34.547638,alive,1450000000,17278,Turtle
+'surface longline','Broadbill swordfish','Northland and Hauraki',174.053982,-34.574164,alive,1450000000,17278,Turtle
+trawl,Trevally,'WC North Is.',172.836046,-34.900405,dead,1450000000,17278,Turtle
+'surface longline','Bigeye tuna','East Coast North Island',178.988867,-37.592548,alive,1450000000,17278,Turtle
+'surface longline','Bigeye tuna','East Coast North Island',179.117364,-37.321412,alive,1450000000,17278,Turtle
+'surface longline','Southern bluefin tuna','East Coast North Island',178.519396,-39.371666,alive,1450000000,17278,Turtle
+trawl,Tarakihi,'East Coast North Island',178.263897,-37.549325,decomposed,1450000000,17278,Whale
+trawl,Snapper,'East Coast North Island',177.378734,-39.078412,dead,1480000000,14049,Dolphin
+'surface longline','Bigeye tuna','Northland and Hauraki',176.41188,-35.32074,alive,1480000000,14049,Dolphin
+trawl,Snapper,'Northland and Hauraki',175.096209,-36.26887,dead,1480000000,14049,Dolphin
+setnet,Rig,'East Coast South Island',171.282601,-44.683784,dead,1480000000,14049,Dolphin
+setnet,Trevally,Taranaki,174.033629,-39.020793,dead,1480000000,14049,Dolphin
+trawl,Hake,'Stewart Snares Shelf',166.679489,-49.100506,dead,1480000000,14049,Shark
+setnet,Trevally,Taranaki,174.051892,-38.989067,dead,1480000000,14049,Shark
+trawl,'Arrow squid','Stewart Snares Shelf',169.168358,-47.402001,decomposed,1480000000,14049,Shark
+trawl,'Arrow squid','Auckland Islands',166.507488,-50.218823,alive,1480000000,14049,Shark
+trawl,'Arrow squid','Auckland Islands',166.745955,-50.178615,alive,1480000000,14049,Shark
+trawl,'Arrow squid','Stewart Snares Shelf',166.258275,-48.459381,dead,1480000000,14049,Shark
+trawl,'Silver warehou','Stewart Snares Shelf',166.455105,-48.76517,dead,1480000000,14049,Shark
+trawl,'Arrow squid','Auckland Islands',166.960066,-50.697876,alive,1480000000,14049,Shark
+'surface longline','Bigeye tuna','Northland and Hauraki',174.989656,-35.036699,alive,1480000000,14049,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',176.089409,-36.025248,alive,1480000000,14049,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.250736,-35.671863,alive,1480000000,14049,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.241689,-35.638882,alive,1480000000,14049,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.24312,-35.640552,alive,1480000000,14049,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.229241,-35.632386,alive,1480000000,14049,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.258758,-35.633381,alive,1480000000,14049,'Sting Ray'
+'purse seine','Skipjack tuna','Northland and Hauraki',175.232832,-35.673668,alive,1480000000,14049,'Sting Ray'
+'surface longline','Broadbill swordfish','WC North Is.',173.645382,-37.39314,alive,1480000000,14049,Turtle
+'surface longline','Broadbill swordfish','WC North Is.',173.703452,-37.544991,alive,1480000000,14049,Turtle
+trawl,'Arrow squid','Stewart Snares Shelf',166.611217,-48.736245,decomposed,1480000000,14049,Whale
+'surface longline','Broadbill swordfish','WC South Is.',170.373106,-40.937682,alive,1480000000,14049,Whale
+'surface longline','Southern bluefin tuna','Bay of Plenty',177.28835,-37.006325,alive,1480000000,14049,Whale
