@@ -1,2 +1,2 @@
-# Machine Learning Tool and Techniques
+# Machine Learning Tools and Techniques
 COMP 309 
